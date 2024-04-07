@@ -1,6 +1,6 @@
 - 👋 Hey this is @imsunny009
 - 👀 I’m a product guy and I contribute to feature resolution discussions
-- 🌱 I’m currently learning Django
+- 🌱 I know basics of python and learning react native currently
 - 📫 s.dasgupta001@gmail.com
 - 💼 www.linkedin.com/in/imsunny009
 
